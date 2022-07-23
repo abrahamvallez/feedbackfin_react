@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": { 
     "type": "git",
-    "url": ""
+    "url": "https://github.com/abrahamvallez/feedbackfin_react"
   },
   "main": "./dist/feedback-fin-react.umd.js",
   "module": "./dist/feedback-fin-react.es.js",

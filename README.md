@@ -2,6 +2,8 @@
 
 **A tiny widget to collect feedback anywhere on your website. Now in a react component!!!.**
 
+[![npm version](https://badgen.net/npm/v/feedbackfin_react)](https://www.npmjs.com/package/feedbackfin_react)
+
 <a href="https://feedbackfin.com" target="_blank" rel="noopener">
   <img src="https://user-images.githubusercontent.com/27017118/160980505-edf2c161-730d-4ba1-9ae2-2a0a01454954.gif" width="420" height="380" alt="Demo GIF" />
 </a>
@@ -11,6 +13,10 @@
 [Github](https://github.com/rowyio/feedbackfin)
 
 ## How it works
+
+```shell
+npm install feedbackfin_react
+```
 
 ```html
 <Feedback rowyUrl='https://rowy-hooks.run.app/wh/...'>
